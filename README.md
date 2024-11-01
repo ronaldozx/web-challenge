@@ -29,11 +29,41 @@ Na AgTech, valorizamos uma cultura de confiança e empoderamento. Nossos valores
 2. **Transparência e Colaboração**: Promovemos uma comunicação aberta e incentivamos a troca de ideias em todos os níveis.
 3. **Respeito e Sustentabilidade**: Nosso trabalho impacta o meio ambiente, e cada decisão é pensada para garantir um futuro melhor para todos.
 
+## Desafio de programação básico: CRUD com API 🌟
+
+Para avaliar suas habilidades e compreensão sobre desenvolvimento, convidamos você a participar do nosso desafio de programação. O objetivo é criar um CRUD (Create, Read, Update, Delete) utilizando uma API RESTful. Siga os passos abaixo:
+
+### Instruções:
+
+1. **Escolha uma API**: Você pode usar uma API pública disponível, como a [JSONPlaceholder](https://jsonplaceholder.typicode.com/), [The Cat API](https://thecatapi.com/) ou criar uma API simples utilizando Node.js ou Laravel.
+  
+2. **Funcionalidades do CRUD**:
+   - **Create**: Permita que os usuários adicionem novos registros.
+   - **Read**: Exiba uma lista de registros e permita que os usuários visualizem detalhes de um registro específico.
+   - **Update**: Permita que os usuários editem um registro existente.
+   - **Delete**: Permita que os usuários removam um registro.
+
+3. **Requisitos**:
+   - Utilize boas práticas de programação e padrões de design.
+   - A interface deve ser amigável e responsiva.
+   - O código deve ser bem documentado e organizado.
+   - **Testes Unitários**: Crie testes unitários para garantir que todas as funcionalidades do CRUD estejam funcionando conforme esperado.
+
+4. **Submissão**: Você deve enviar a resolução do desafio via pull request nesse mesmo repositório. Compartilhe seu código em um repositório no GitHub e envie o link para nós.
+
+### O que valorizamos:
+
+- Criatividade na solução do desafio
+- Qualidade do código
+- Usabilidade da interface
+- Documentação clara
+- Cobertura dos testes unitários
+
 ## 📢 Vagas Abertas e Oportunidades
 
 Estamos em busca de talentos que desejam fazer parte de uma equipe dinâmica, onde a contribuição de cada membro tem um impacto direto e positivo. Se você é movido(a) por desafios e deseja crescer profissionalmente, confira nossas vagas!
 
-[Ver Vagas](#) | [LinkedIn](#)
+[Ver Vagas](https://grupoagtech.enlizt.me/) | [LinkedIn](https://www.linkedin.com/company/grupoagtech/mycompany/verification/)
 
 ## 📬 Entre em Contato
 
