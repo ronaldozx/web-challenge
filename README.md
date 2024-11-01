@@ -45,11 +45,12 @@ Para avaliar suas habilidades e compreensão sobre desenvolvimento, convidamos v
 
 3. **Requisitos**:
    - Utilize boas práticas de programação e padrões de design.
+   - Deve ser desenvolvido com frontend em Angular e backend com Laravel
    - A interface deve ser amigável e responsiva.
    - O código deve ser bem documentado e organizado.
-   - **Testes Unitários**: Crie testes unitários para garantir que todas as funcionalidades do CRUD estejam funcionando conforme esperado.
+   - **Testes Unitários**: Crie testes unitários para garantir que todas as funcionalidades do CRUD estejam funcionando conforme esperado (Em angular e Laravel).
 
-4. **Submissão**: Você deve enviar a resolução do desafio via pull request nesse mesmo repositório.
+5. **Submissão**: Você deve enviar a resolução do desafio via pull request nesse mesmo repositório.
 
 ### O que valorizamos:
 
