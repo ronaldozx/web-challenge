@@ -49,7 +49,7 @@ Para avaliar suas habilidades e compreensão sobre desenvolvimento, convidamos v
    - O código deve ser bem documentado e organizado.
    - **Testes Unitários**: Crie testes unitários para garantir que todas as funcionalidades do CRUD estejam funcionando conforme esperado.
 
-4. **Submissão**: Você deve enviar a resolução do desafio via pull request nesse mesmo repositório. Compartilhe seu código em um repositório no GitHub e envie o link para nós.
+4. **Submissão**: Você deve enviar a resolução do desafio via pull request nesse mesmo repositório.
 
 ### O que valorizamos:
 
