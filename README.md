@@ -23,11 +23,21 @@ Estamos em busca de desenvolvedores que compartilham a paixão por resolver prob
 
 ## 🎯 Nossa Cultura e Valores
 
-Na AgTech, valorizamos uma cultura de confiança e empoderamento. Nossos valores fundamentais são:
+Na AgTech, acreditamos que cada colaborador desempenha um papel fundamental em nossa missão. Nossa cultura é guiada por valores sólidos que refletem o compromisso com nossos clientes, com o meio ambiente e com nossa equipe:
 
-1. **Inovação com Propósito**: Sempre buscar novas formas de resolver problemas do setor agrícola de maneira escalável.
-2. **Transparência e Colaboração**: Promovemos uma comunicação aberta e incentivamos a troca de ideias em todos os níveis.
-3. **Respeito e Sustentabilidade**: Nosso trabalho impacta o meio ambiente, e cada decisão é pensada para garantir um futuro melhor para todos.
+- **Comprometimento**: Assumimos a responsabilidade por cada projeto, garantindo dedicação total para alcançar os melhores resultados para nossos parceiros e para o setor.
+
+- **Segurança**: Nos esforçamos para criar um ambiente seguro para todos, cuidando da saúde e do bem-estar de nossa equipe e das comunidades em que atuamos.
+
+- **Inovação**: Buscamos constantemente novas ideias e tecnologias que possam transformar e elevar o setor, gerando soluções de valor real e impacto positivo.
+
+- **Melhoria Contínua**: Acreditamos que sempre há espaço para aperfeiçoamento. Com essa mentalidade, incentivamos a evolução constante em nossos processos, produtos e práticas.
+
+- **Integridade**: Atuamos com honestidade e transparência, respeitando nossos compromissos e as pessoas ao nosso redor.
+
+- **Sustentabilidade**: Cada decisão é tomada com consciência ambiental, visando minimizar impactos e promover um futuro mais sustentável para todos.
+
+- **Qualidade**: Prezamos pela excelência em tudo o que fazemos, buscando entregar produtos e serviços que atendam e superem as expectativas.
 
 ## Desafio de programação básico: CRUD com API 🌟
 
