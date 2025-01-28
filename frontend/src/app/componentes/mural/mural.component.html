@@ -1,0 +1,9 @@
+<div class="mural" *ngIf="listaPerfil.length > 0; else semPerfil">
+    <div *ngFor="let perfil of listaPerfil">
+      <app-perfil [perfil]="perfil"></app-perfil> 
+    </div>
+  </div>
+  <ng-template #semPerfil>
+    <p>Ainda não há nenhum perfil</p>
+  </ng-template>
+  

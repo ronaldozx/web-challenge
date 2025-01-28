@@ -1,0 +1,17 @@
+<div class="coluna">
+    <header>
+      <b><p class="titulo">{{ perfil.nome }}</p></b>
+      <div class="acoes">
+        <button class="btn-editar btn-primary" [routerLink]="['/componentes/editarPerfil', perfil.id]">
+          <img src="../../../assets/imagens/icone-editar.png" alt="Editar">
+        </button>
+        <button class="btn-excluir" [routerLink]="['/componentes/excluirPerfil', perfil.id]">
+          <img src="../../../assets/imagens/icone-excluir.png" alt="Excluir">
+        </button>
+      </div>
+    </header>
+    <b><p class="titulo">{{ perfil.idade }} anos</p></b>
+    <b><p class="titulo">{{ perfil.email }}</p></b>
+    <b><p class="titulo">{{ perfil.descricao }}</p></b>
+  </div>
+  

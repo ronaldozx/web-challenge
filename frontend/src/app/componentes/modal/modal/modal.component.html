@@ -1,0 +1,42 @@
+<section class="container criar-tarefas ff-inter">
+    <div class="modal">
+        <header class="header">
+            <h2>Adicione um Perfil</h2>
+        </header>
+        <form class="form" action="" method="post">
+           
+            <div class="inputs">
+            <label>Nome</label>
+            <input type="text" placeholder="Insira o nome do perfil:" [(ngModel)]="perfil.nome" name="nome">
+        </div>
+        
+        <div class="inputs">
+            <label>Idade</label>
+            <input type="text" placeholder="Insira a idade:" [(ngModel)]="perfil.idade" name="idade">
+        </div>
+            <div class="inputs">
+            <label>Email</label>
+            <input type="text" placeholder="Insira o email:" [(ngModel)]="perfil.email" name="email">
+        </div>
+            <div class="inputs">
+            <label>Descricao</label>
+            <input type="text" placeholder="Insira a descricao:" [(ngModel)]="perfil.descricao" name="descricao">
+        </div>
+        <div class="inputs">
+            <label>Senha</label>
+            <input type="password" placeholder="Insira a descricao:" [(ngModel)]="perfil.password" name="password">
+        </div>
+        <div class="inputs">
+            <label>Corfirmar senha</label>
+            <input type="password" placeholder="Insira a descricao:" [(ngModel)]="perfil.passwordConfirm" name="passwordConfirm">
+        </div>
+    
+        
+        </form>
+        <div class="divBtn">
+            <button class="btnCancel" (click)="cancelar()">Cancelar</button>
+            <button class="btnConfirm" (click)="criarColuna()">Confirmar</button>
+        </div>
+    </div>
+    <div class="overlay"></div>
+</section>

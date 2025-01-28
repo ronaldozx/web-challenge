@@ -1,0 +1,19 @@
+<section class="container editar-perfil ff-inter">
+    <div class="modal">
+        <header class="header">
+            <h2>Edite o titulo da Coluna</h2>
+        </header>
+        <form class="form" action="" method="post">
+            <input type="text" placeholder="Edite o titulo da Coluna" [(ngModel)]="perfil.nome" name="nome">
+            <input type="text" placeholder="Edite o titulo da Coluna" [(ngModel)]="perfil.idade" name="idade"> 
+            <input type="text" placeholder="Edite o titulo da Coluna" [(ngModel)]="perfil.email" name="email"> 
+            <input type="text" placeholder="Edite o titulo da Coluna" [(ngModel)]="perfil.descricao" name="descricao"> 
+
+        </form>
+        <div class="divBtn">
+            <button class="btnCancel" (click)="cancelar()">Cancelar</button>
+            <button class="btnConfirm" (click)="editarColuna()">Confirmar</button> 
+        </div>
+    </div>
+    <div class="overlay"></div>
+</section>
